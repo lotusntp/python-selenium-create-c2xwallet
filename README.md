@@ -5,4 +5,5 @@
 </div>
 
 ## Note
-Check ChromeDriver version to match
+- Check ChromeDriver version to match
+- Get data username from google sheet
