@@ -4,4 +4,5 @@
   <img src="https://blog.logrocket.com/wp-content/uploads/2021/11/web-automation-selenium-python.png" alt=""/>
 </div>
 
-## Check version chrome driver
+## Note
+Check ChromeDriver version to match
